@@ -3,7 +3,7 @@
 - [x]  O HTML é uma linguagem de marcação ;
 - [x]  É responsável pela estruturação dos sites ;
 - [x]  O HTML é divido por TAGS, por exemplo:
-- [x]  Parágrafo
+- [x]  Parágrafo (<p></p>
 - [x]  Titulo
 - [x]  <img src=”caminho da sua imagem”></img> ;
 - [x]  Todas as TAGS precisam ser abertas e fechadas ;
